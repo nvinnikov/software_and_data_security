@@ -1,4 +1,4 @@
-# software_security
+# software_and_data_security
 Software and Data Security course
 
 ## Задача
